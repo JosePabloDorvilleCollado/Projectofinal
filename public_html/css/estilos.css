@@ -1,0 +1,123 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+#cabecera
+{
+    /*Aplicando tipo, aliniacion y tamaño de letras a la cabecera*/
+    font-family: Segoe UI Light;
+    font-size: 50px;
+    text-align: center;
+}
+
+ul li 
+{
+    
+    list-style-type: none;
+        background-image: url("https://media.giphy.com/media/3XdsWf4oqSZ6E/giphy.gif");
+    display: inline;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    }
+    #menu
+    {
+        text-align: center;
+        color: white;
+    }
+    #cuerpo
+    {
+        text-align: center;
+        font-family: Calibri;
+        font-size: 20px;
+    }
+    #pie
+    {
+        background: #0080FF;
+        text-align: center;
+        
+    }
+    a
+    {
+        text-decoration: none;
+     
+    }
+     
+     a:link 
+    {
+        color:yellow;
+    }
+     a:hover 
+    {
+        font-size: 50px;
+        color: red !important;
+    }
+    a:visited
+    {
+        color:black;
+    }
+    a:active
+    {
+        color: red;
+    }
+    form
+    {
+        /*centrando el formulario y poniendo borde*/
+        font-size: 10px;
+        background-color: white;
+        margin: 2px auto;
+        width: 800px;
+        padding: 1em;
+        border: 2px solid #000 ;
+        border-radius: 1em;
+        
+    }
+    for div
+    {
+        margin-top: 2em;
+        
+    }
+    label
+    {
+        margin: 2px auto;
+        display: inline-block;
+        size: 100px;
+        margin: 1px;
+        
+        text-align: right;
+    }
+    #jp
+    {
+        text-align: center;
+        background: #0080FF
+    }
+
+
+    input
+    {
+        
+        font:Segoe UI Light;
+        width: 200px;
+        
+    }
+    input:focus, textArea:focus{
+        border-color: red;
+    }
+    textarea{
+        size: 200px;
+        font-size: 20px;
+        vertical-align: top;
+    }
+    #fondo{
+        background-image: url("https://media.giphy.com/media/3XdsWf4oqSZ6E/giphy.gif");
+        
+    }
+    
+    lol
+    {
+        font-size: 100px;
+        text-align: left;
+    }
+    
