@@ -15,7 +15,6 @@ ul li
 {
     
     list-style-type: none;
-        background-image: url("https://media.giphy.com/media/3XdsWf4oqSZ6E/giphy.gif");
     display: inline;
     font-size: 28px;
     font-weight: bold;
@@ -111,7 +110,6 @@ ul li
         vertical-align: top;
     }
     #fondo{
-        background-image: url("https://media.giphy.com/media/3XdsWf4oqSZ6E/giphy.gif");
         
     }
     
